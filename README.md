@@ -1,4 +1,4 @@
-# tensorflow-test
+# tensorflow-test with GPU
 
 Scripts and procedure to test a GPU node as slave of a MESOS cluster.
 
