@@ -25,6 +25,9 @@ keras-test.json
 }
 ```
 
+gpu_keras.sh
+https://gist.github.com/alexcos78/054ab798e98a87ee425b74bee66905c5/raw/295e99ff6f09e046091f00850362c141f60493d1/gpu_keras.sh
+
 Run job on CHONOS
 ```
 # curl -L -H 'Content-Type: application/json' -X POST -d @keras-test.json <MESOS_HOSTNAME>:4400/v1/scheduler/iso8601
